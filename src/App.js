@@ -6,10 +6,10 @@ import Product from './Pages/Product';
 function App() {
   return (
     <div className="App">
-<h1>I am learning</h1> 
-<Input name="First Name"/>
-<Input name="Last name"/>
-<Product/>
+      <h1>I am learning</h1>
+      <Input name="First Name" />
+      <Input name="Last name" />
+      <Product />
 
     </div>
   );
